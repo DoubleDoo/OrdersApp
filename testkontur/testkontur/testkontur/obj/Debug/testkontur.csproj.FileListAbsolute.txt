@@ -1,0 +1,81 @@
+D:\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe.config
+D:\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe
+D:\testkontur\testkontur\testkontur\bin\Debug\testkontur.pdb
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.csprojAssemblyReference.cache
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.Properties.Resources.resources
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.GenerateResource.cache
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CoreCompileInputs.cache
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.exe
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.pdb
+D:\testkontur\testkontur\testkontur\bin\Debug\WebDriver.dll
+D:\testkontur\testkontur\testkontur\bin\Debug\WebDriver.xml
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CopyComplete
+D:\testkontur\testkontur\testkontur\obj\Debug\testkontur.Form1.resources
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe.config
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.pdb
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.dll
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.xml
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csprojAssemblyReference.cache
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Form1.resources
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Properties.Resources.resources
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.GenerateResource.cache
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CopyComplete
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.exe
+Z:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.pdb
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe.config
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.pdb
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.dll
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.xml
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csprojAssemblyReference.cache
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Form1.resources
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Properties.Resources.resources
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.GenerateResource.cache
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CopyComplete
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.exe
+D:\GIT — копия\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.pdb
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe.config
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.pdb
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.dll
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.xml
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Form1.resources
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Properties.Resources.resources
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.GenerateResource.cache
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CopyComplete
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.exe
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.pdb
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csprojAssemblyReference.cache
+D:\GIT\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CoreCompileInputs.cache
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe.config
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.exe
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\testkontur.pdb
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.Support.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.xml
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\WebDriver.Support.xml
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Properties.Resources.resources
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.GenerateResource.cache
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CoreCompileInputs.cache
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csproj.CopyComplete
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.exe
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.pdb
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\Fizzler.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\System.Text.Json.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\System.Memory.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.exe.config
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.csprojAssemblyReference.cache
+C:\Users\dima8\Desktop\KonturApp\testkontur\testkontur\testkontur\obj\Debug\testkontur.Form1.resources
